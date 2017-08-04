@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/rosanco">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Nombre"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/NombreU"
+        android:text="a"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Apellido"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/ApellidoU"
+        android:text="a"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="DNI"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/DniU"
+        android:text="a"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/EmailU"
+        android:text="a"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Usuario"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/UsuarioU"
+        android:text="a"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Contraseña"
+        android:textSize="20dp"
+
+        android:inputType="textPassword"
+        android:layout_gravity="center"
+        android:id="@+id/ContraseñaU"
+        android:text="a"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Repetir contraseña"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:inputType="textPassword"
+        android:id="@+id/RepetirConU"
+        android:text="a"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registrarme"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:id="@+id/RegistrarmeU"
+        android:onClick="RegistrarmeU"
+        android:background="#fae6e6"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="      Volver      "
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:id="@+id/volver6"
+        android:onClick="Volver6"
+        android:layout_marginTop="15dp"
+        android:background="#fae6e6"/>
+
+</LinearLayout>

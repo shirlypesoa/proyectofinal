@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\devandroid\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Donaciones1\app\build\intermediates\pre-dexed\debug\okio-1.9.0_4736b039062cae5fac89829aee66625983322cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\devandroid\.android\build-cache\1b74741d107379806d08be8613fe41644b7f1266\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Donaciones1\app\build\intermediates\pre-dexed\debug\classes_f9aa18d85e940be44e3a4d99049bafec2de7d8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\devandroid\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Donaciones1\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_cd1b123311d14be377476942549e03a1aafd0e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\devandroid\.android\build-cache\2f20bd46117831c632e080d2ab5fc3d4dad93b6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Donaciones1\app\build\intermediates\pre-dexed\debug\classes_31b194a9f1d6b67b45b2fd3ff095283831b9404d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\devandroid\.android\build-cache\d4e07dba63e38a1995b890badad21094f0325ac7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Donaciones1\app\build\intermediates\pre-dexed\debug\classes_c3de744cc21727b9cfdaaa9d8e8b8133f8da9c02.jar" />
+    </item>
+
+</items>

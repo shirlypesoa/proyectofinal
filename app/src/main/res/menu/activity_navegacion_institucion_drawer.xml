@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/fragment_mapa"
+            android:icon="@drawable/mapaicon"
+            android:title="Volver al mapa" />
+        <item
+            android:id="@+id/fragment_establecimientos"
+            android:icon="@drawable/casaicon"
+            android:title="Administar establecimientos" />
+        <item
+            android:id="@+id/fragment_eventos"
+            android:icon="@drawable/eventosicon"
+            android:title="Administrar eventos" />
+        <item
+            android:id="@+id/inicio"
+            android:icon="@drawable/saliricon"
+            android:title="Salir" />
+    </group>
+
+
+</menu>

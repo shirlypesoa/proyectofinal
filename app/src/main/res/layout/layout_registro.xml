@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/rosanco">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/donador"
+        android:text="       Quiero ayudar       "
+        android:textSize="20dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#fae6e6"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="155dp"
+        android:onClick="RegistroU"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/institucion"
+        android:text=" Soy una institución "
+        android:textSize="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:background="#fae6e6"
+        android:onClick="RegistroI"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/volver1"
+        android:text="              Volver              "
+        android:textSize="20dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#fae6e6"
+        android:onClick="Volver1"
+        />
+
+</LinearLayout>

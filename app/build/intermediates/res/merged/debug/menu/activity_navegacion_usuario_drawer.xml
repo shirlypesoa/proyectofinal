@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/activity_maps"/>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/fragment_mapa"
+            android:icon="@drawable/mapaicon"
+            android:title="Volver al mapa" />
+        <item
+            android:id="@+id/fragment_donar"
+            android:icon="@drawable/donaricon"
+            android:title="Quiero donar" />
+        <item
+            android:id="@+id/fragment_voluntario"
+            android:icon="@drawable/voluntaricon"
+            android:title="Quiero ser voluntario" />
+        <item
+            android:id="@+id/fragment_eventos"
+            android:icon="@drawable/eventosicon"
+            android:title="Eventos" />
+        <item
+            android:id="@+id/inicio"
+            android:icon="@drawable/saliricon"
+            android:title="Salir" />
+    </group>
+
+</menu>
